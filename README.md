@@ -17,13 +17,6 @@
 
 ---
 
-## 👨‍💻 Contributor  
-- **Name:** Sanket  
-- 🌍 Based in **Bangalore, India**    
-- 🐙 GitHub: [Igsankya24](https://github.com/Igsankya24)  
-
----
-
 ## 🚀 My Contributions  
 - Implemented **AI-powered real-time face swap** with multiple pretrained models  
 - Integrated **single-photo face swap (Insight)** for lightweight usage  
